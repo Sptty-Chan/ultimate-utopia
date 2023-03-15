@@ -15182,7 +15182,7 @@ static PyObject *__pyx_pf_3run_8updater(CYTHON_UNUSED PyObject *__pyx_self) {
   __Pyx_RefNannySetupContext("updater", 0);
 
    
-  __pyx_v_nowis = 1;
+  __pyx_v_nowis = 2;
 
    
   {
