@@ -2387,7 +2387,7 @@ static const char __pyx_k_bold_white_PERHATIAN_bold_white[] = "[bold white]PERHA
 static const char __pyx_k_bold_white_PILIH_UNTUK_DITAMPIL[] = "[bold white]PILIH UNTUK DITAMPILKAN[/bold white]";
 static const char __pyx_k_bold_white_PILIH_USER_AGENT_bol[] = "[bold white]PILIH USER AGENT[/bold white]";
 static const char __pyx_k_bold_white_ULTIMATE_UTOPIA_bold[] = "[bold white]ULTIMATE UTOPIA[/bold white]";
-static const char __pyx_k_bold_white_Versi_1_2_bold_white[] = "[bold white]Versi 1.2[/bold white]";
+static const char __pyx_k_bold_white_Versi_1_3_bold_white[] = "[bold white]Versi 1.3[/bold white]";
 static const char __pyx_k_bright_green_ULTIMATE_UTOPIA_br[] = "[bright_green]ULTIMATE UTOPIA[/bright_green]";
 static const char __pyx_k_deep_pink3_cyan_deep_pink3_cyan[] = "[deep_pink3] \342\226\210    \342\226\210\342\226\210 \342\226\204\342\226\204\342\226\204\342\226\210\342\226\210\342\226\210\342\226\210\342\226\210\342\226\223 \342\226\222\342\226\210\342\226\210\342\226\210\342\226\210\342\226\210   \342\226\210\342\226\210\342\226\223\342\226\210\342\226\210\342\226\210   \342\226\210\342\226\210\342\226\223 \342\226\204\342\226\204\342\226\204\n \342\226\210\342\226\210  \342\226\223\342\226\210\342\226\210\342\226\222\342\226\223  \342\226\210\342\226\210\342\226\222 \342\226\223\342\226\222\342\226\222\342\226\210\342\226\210\342\226\222  \342\226\210\342\226\210\342\226\222\342\226\223\342\226\210\342\226\210\342\226\221  \342\226\210\342\226\210\342\226\222\342\226\223\342\226\210\342\226\210\342\226\222\342\226\222\342\226\210\342\226\210\342\226\210\342\226\210\342\226\204\n\342\226\223\342\226\210\342\226\210  \342\226\222\342\226\210\342\226\210\342\226\221\342\226\222 \342\226\223\342\226\210\342\226\210\342\226\221 \342\226\222\342\226\221\342\226\222\342\226\210\342\226\210\342\226\221  \342\226\210\342\226\210\342\226\222\342\226\223\342\226\210\342\226\210\342\226\221 \342\226\210\342\226\210\342\226\223\342\226\222\342\226\222\342\226\210\342\226\210\342\226\222\342\226\222\342\226\210\342\226\210  \342\226\200\342\226\210\342\226\204\n\342\226\223\342\226\223\342\226\210  \342\226\221\342\226\210\342\226\210\342\226\221\342\226\221 \342\226\223\342\226\210\342\226\210\342\226\223 \342\226\221 \342\226\222\342\226\210\342\226\210   \342\226\210\342\226\210\342\226\221\342\226\222\342\226\210\342\226\210\342\226\204\342\226\210\342\226\223\342\226\222 \342\226\222\342\226\221\342\226\210\342\226\210\342\226\221\342\226\221\342\226\210\342\226\210\342\226\204\342\226\204\342\226\204\342\226\204\342\226\210\342\226\210\n\342\226\222\342\226\222\342\226\210\342\226\210\342\226\210\342\226\210\342\226\210\342\226\223   \342\226\222\342\226\210\342\226\210\342\226\222 \342\226\221 \342\226\221 \342\226\210\342\226""\210\342\226\210\342\226\210\342\226\223\342\226\222\342\226\221\342\226\222\342\226\210\342\226\210\342\226\222 \342\226\221  \342\226\221\342\226\221\342\226\210\342\226\210\342\226\221 \342\226\223\342\226\210   \342\226\223\342\226\210\342\226\210\342\226\222\n\342\226\221\342\226\222\342\226\223\342\226\222 \342\226\222 \342\226\222   \342\226\222 \342\226\221\342\226\221   \342\226\221 \342\226\222\342\226\221\342\226\222\342\226\221\342\226\222\342\226\221 \342\226\222\342\226\223\342\226\222\342\226\221 \342\226\221  \342\226\221\342\226\221\342\226\223   \342\226\222\342\226\222   \342\226\223\342\226\222\342\226\210\342\226\221\n\342\226\221\342\226\221\342\226\222\342\226\221 \342\226\221 \342\226\221     \342\226\221      \342\226\221 \342\226\222 \342\226\222\342\226\221 \342\226\221\342\226\222[cyan]\342\225\246[deep_pink3]\342\226\221[cyan]\342\225\246\342\225\246 \342\225\224\342\225\246\342\225\227\342\225\246\342\225\224\342\225\246\342\225\227\342\225\224\342\225\220\342\225\227\342\225\224\342\225\246\342\225\227\342\225\224\342\225\220\342\225\227\n[deep_pink3] \342\226\221\342\226\221\342\226\221 \342\226\221 \342\226\221   \342\226\221      \342\226\221 \342\226\221 \342\226\221 \342\226\222  \342\226\221\342\226\221[cyan]\342\225\221 \342\225\221\342\225\221  \342\225\221 \342\225\221\342\225\221\342\225\221\342\225\221\342\225\240\342\225\220\342\225\243 \342\225\221[deep_pink3]\342\226\222[cyan]\342\225\221\342\225\243\n[deep_pink3]   \342\226\221                  \342\226\221 \342\226\221    [cyan]\342\225\232\342\225\220\342\225\235\342\225\251\342\225\220\342\225\235\342\225\251 \342\225\251\342\225\251 \342\225\251\342\225\251 \342\225\251 \342\225\251[deep_pink3]\342\226\221[cyan]\342\225\232\342\225\220\342\225\235[/cyan]\n";
 static const char __pyx_k_flow_login_no_pin_refsrc_deprec[] = "&flow=login_no_pin&refsrc=deprecated&_rdr";
@@ -2641,7 +2641,7 @@ static PyObject *__pyx_kp_s_bold_white_PILIH_UNTUK_DITAMPIL;
 static PyObject *__pyx_kp_s_bold_white_PILIH_USER_AGENT_bol;
 static PyObject *__pyx_kp_s_bold_white_RESULT_bold_white;
 static PyObject *__pyx_kp_s_bold_white_ULTIMATE_UTOPIA_bold;
-static PyObject *__pyx_kp_s_bold_white_Versi_1_2_bold_white;
+static PyObject *__pyx_kp_s_bold_white_Versi_1_3_bold_white;
 static PyObject *__pyx_kp_u_bold_yellow;
 static PyObject *__pyx_n_s_box;
 static PyObject *__pyx_n_s_br;
@@ -4612,7 +4612,7 @@ static PyObject *__pyx_pf_3run_4Main_2page_display(CYTHON_UNUSED PyObject *__pyx
     __pyx_t_4 = 0;
     __pyx_t_4 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 65, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 65, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 65, __pyx_L1_error)
     if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 65, __pyx_L1_error)
     __Pyx_GetModuleGlobalName(__pyx_t_11, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_11)) __PYX_ERR(0, 65, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_11);
@@ -4968,7 +4968,7 @@ static PyObject *__pyx_pf_3run_4Main_4cek_results(CYTHON_UNUSED PyObject *__pyx_
     __pyx_t_4 = 0;
     __pyx_t_4 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 78, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_4);
-    if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 78, __pyx_L1_error)
+    if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 78, __pyx_L1_error)
     if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 78, __pyx_L1_error)
     __Pyx_GetModuleGlobalName(__pyx_t_9, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_9)) __PYX_ERR(0, 78, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_9);
@@ -5285,7 +5285,7 @@ static PyObject *__pyx_pf_3run_4Main_4cek_results(CYTHON_UNUSED PyObject *__pyx_
       __pyx_t_8 = 0;
       __pyx_t_8 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 90, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_8);
-      if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 90, __pyx_L1_error)
+      if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 90, __pyx_L1_error)
       if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 90, __pyx_L1_error)
       __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 90, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_3);
@@ -6380,7 +6380,7 @@ static PyObject *__pyx_pf_3run_4Main_4cek_results(CYTHON_UNUSED PyObject *__pyx_
       __pyx_t_1 = 0;
       __pyx_t_1 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 121, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
-      if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 121, __pyx_L1_error)
+      if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 121, __pyx_L1_error)
       if (PyDict_SetItem(__pyx_t_1, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 121, __pyx_L1_error)
       __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 121, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_2);
@@ -15778,7 +15778,7 @@ static PyObject *__pyx_pf_3run_8updater(CYTHON_UNUSED PyObject *__pyx_self) {
   __Pyx_RefNannySetupContext("updater", 0);
 
    
-  __pyx_v_nowis = 14;
+  __pyx_v_nowis = 15;
 
    
   {
@@ -16009,7 +16009,7 @@ static PyObject *__pyx_pf_3run_8updater(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_8 = 0;
         __pyx_t_8 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 529, __pyx_L3_error)
         __Pyx_GOTREF(__pyx_t_8);
-        if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 529, __pyx_L3_error)
+        if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 529, __pyx_L3_error)
         if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 529, __pyx_L3_error)
         __Pyx_GetModuleGlobalName(__pyx_t_12, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_12)) __PYX_ERR(0, 529, __pyx_L3_error)
         __Pyx_GOTREF(__pyx_t_12);
@@ -16157,7 +16157,7 @@ static PyObject *__pyx_pf_3run_8updater(CYTHON_UNUSED PyObject *__pyx_self) {
         __pyx_t_8 = 0;
         __pyx_t_8 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_8)) __PYX_ERR(0, 533, __pyx_L3_error)
         __Pyx_GOTREF(__pyx_t_8);
-        if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 533, __pyx_L3_error)
+        if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 533, __pyx_L3_error)
         if (PyDict_SetItem(__pyx_t_8, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 533, __pyx_L3_error)
         __Pyx_GetModuleGlobalName(__pyx_t_5, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 533, __pyx_L3_error)
         __Pyx_GOTREF(__pyx_t_5);
@@ -17046,7 +17046,7 @@ static __Pyx_StringTabEntry __pyx_string_tab[] = {
   {&__pyx_kp_s_bold_white_PILIH_USER_AGENT_bol, __pyx_k_bold_white_PILIH_USER_AGENT_bol, sizeof(__pyx_k_bold_white_PILIH_USER_AGENT_bol), 0, 0, 1, 0},
   {&__pyx_kp_s_bold_white_RESULT_bold_white, __pyx_k_bold_white_RESULT_bold_white, sizeof(__pyx_k_bold_white_RESULT_bold_white), 0, 0, 1, 0},
   {&__pyx_kp_s_bold_white_ULTIMATE_UTOPIA_bold, __pyx_k_bold_white_ULTIMATE_UTOPIA_bold, sizeof(__pyx_k_bold_white_ULTIMATE_UTOPIA_bold), 0, 0, 1, 0},
-  {&__pyx_kp_s_bold_white_Versi_1_2_bold_white, __pyx_k_bold_white_Versi_1_2_bold_white, sizeof(__pyx_k_bold_white_Versi_1_2_bold_white), 0, 0, 1, 0},
+  {&__pyx_kp_s_bold_white_Versi_1_3_bold_white, __pyx_k_bold_white_Versi_1_3_bold_white, sizeof(__pyx_k_bold_white_Versi_1_3_bold_white), 0, 0, 1, 0},
   {&__pyx_kp_u_bold_yellow, __pyx_k_bold_yellow, sizeof(__pyx_k_bold_yellow), 0, 1, 0, 0},
   {&__pyx_n_s_box, __pyx_k_box, sizeof(__pyx_k_box), 0, 0, 1, 1},
   {&__pyx_n_s_br, __pyx_k_br, sizeof(__pyx_k_br), 0, 0, 1, 1},
@@ -18875,7 +18875,7 @@ if (!__Pyx_RefNanny) {
           __pyx_t_4 = 0;
           __pyx_t_4 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 549, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_4);
-          if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 549, __pyx_L1_error)
+          if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 549, __pyx_L1_error)
           if (PyDict_SetItem(__pyx_t_4, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 549, __pyx_L1_error)
           __Pyx_GetModuleGlobalName(__pyx_t_6, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 549, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_6);
@@ -18980,7 +18980,7 @@ if (!__Pyx_RefNanny) {
           __pyx_t_6 = 0;
           __pyx_t_6 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 554, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_6);
-          if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 554, __pyx_L1_error)
+          if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 554, __pyx_L1_error)
           if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 554, __pyx_L1_error)
           __Pyx_GetModuleGlobalName(__pyx_t_2, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 554, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_2);
@@ -19052,7 +19052,7 @@ if (!__Pyx_RefNanny) {
         __pyx_t_5 = 0;
         __pyx_t_5 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_5)) __PYX_ERR(0, 558, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_5);
-        if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 558, __pyx_L1_error)
+        if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 558, __pyx_L1_error)
         if (PyDict_SetItem(__pyx_t_5, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 558, __pyx_L1_error)
         __Pyx_GetModuleGlobalName(__pyx_t_4, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_4)) __PYX_ERR(0, 558, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_4);
@@ -19118,7 +19118,7 @@ if (!__Pyx_RefNanny) {
       __pyx_t_6 = 0;
       __pyx_t_6 = __Pyx_PyDict_NewPresized(3); if (unlikely(!__pyx_t_6)) __PYX_ERR(0, 562, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_6);
-      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_2_bold_white) < 0) __PYX_ERR(0, 562, __pyx_L1_error)
+      if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_subtitle, __pyx_kp_s_bold_white_Versi_1_3_bold_white) < 0) __PYX_ERR(0, 562, __pyx_L1_error)
       if (PyDict_SetItem(__pyx_t_6, __pyx_n_s_padding, __pyx_int_1) < 0) __PYX_ERR(0, 562, __pyx_L1_error)
       __Pyx_GetModuleGlobalName(__pyx_t_1, __pyx_n_s_ROUNDED); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 562, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_1);
